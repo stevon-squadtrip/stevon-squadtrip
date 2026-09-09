@@ -1,0 +1,23 @@
+# Hi, I'm Stevon 👋
+
+I build and ship full-stack web apps end to end — from idea to deployed product. Most of my work lives on Vercel with Next.js, TypeScript, and Postgres.
+
+🌐 [stevonjudd.com](https://stevonjudd.com)
+
+## Things I've built
+
+| Project | What it is | Stack |
+|---|---|---|
+| [28 Days of Amazing People](https://black-history-book.vercel.app) | Interactive Black History Month storybook for kids (ages 4+) — [code](https://github.com/stevon-squadtrip/black-history-book) | Next.js 14 |
+| **Ezra Tracker** | Family health tracker used daily — feed/med schedules, appointments, AI document processing, Google Calendar sync, Telegram bot *(code private)* | Next.js, Prisma, Postgres, Claude API |
+| [Squad Pool](https://github.com/stevon-squadtrip/squad-pool) | World Cup 2026 bracket pool — shareable picks, zero-auth | Next.js 14, Postgres |
+| [Spades Tracker](https://spades-tracker.vercel.app) | Self-contained spades scorekeeper in a single static HTML file — [code](https://github.com/stevon-squadtrip/spades-tracker) | Vanilla JS |
+| [Phila Sheriff Sales](https://github.com/stevon-squadtrip/phila-sheriff-sales) | Philadelphia sheriff-sale auction tracker — scrapes final bids, generates an HTML report | Python |
+
+## How I work
+
+- Ship small, complete products — every project above is deployed and in real use
+- Full stack: UI, API, database, auth, deployment
+- Comfortable with data work — scraping, ETL, reporting
+
+📫 Reach me through [stevonjudd.com](https://stevonjudd.com)
