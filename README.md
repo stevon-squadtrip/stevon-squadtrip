@@ -9,7 +9,7 @@ I build and ship full-stack web apps end to end — from idea to deployed produc
 | Project | What it is | Stack |
 |---|---|---|
 | [Rplyflow](https://rplyflow.ai) | AI reply assistant for Instagram — learns your voice from past replies and drafts comment/DM responses you approve before sending | AI SaaS |
-| [1,000 Whys](https://1000-whys.vercel.app) | Interactive science discovery app for curious kids — 1,000 "why" questions across animals, space, weather, the human body, and everyday science | Next.js |
+| [1,000 Whys](https://1000-whys.vercel.app) | Interactive science discovery app for curious kids — 1,000 "why" questions across animals, space, weather, the human body, and everyday science — [code](https://github.com/stevon-squadtrip/1000-whys) | Next.js 14 |
 | [28 Days of Amazing People](https://black-history-book.vercel.app) | Interactive Black History Month storybook for kids (ages 4+) — [code](https://github.com/stevon-squadtrip/black-history-book) | Next.js 14 |
 | **Ezra Tracker** | Family health tracker used daily — feed/med schedules, appointments, AI document processing, Google Calendar sync, Telegram bot *(code private)* | Next.js, Prisma, Postgres, Claude API |
 | [Squad Pool](https://github.com/stevon-squadtrip/squad-pool) | World Cup 2026 bracket pool — shareable picks, zero-auth | Next.js 14, Postgres |
