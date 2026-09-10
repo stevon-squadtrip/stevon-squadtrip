@@ -2,6 +2,8 @@
 
 I build and ship full-stack web apps end to end — from idea to deployed product. Most of my work lives on Vercel with Next.js, TypeScript, and Postgres.
 
+**Day job:** I build at [SquadTrip](https://squadtrip.com) — a group travel booking platform — working across the marketing site, support tooling, checkout, and analytics.
+
 🌐 [stevonjudd.com](https://stevonjudd.com)
 
 ## Things I've built
