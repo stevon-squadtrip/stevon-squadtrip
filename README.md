@@ -35,6 +35,8 @@ Before that: Senior Technical Program Manager at MongoDB, where I led the relaun
 | [Squad Pool](https://github.com/stevon-squadtrip/squad-pool) | World Cup 2026 bracket pool. Shareable picks, zero auth | Next.js 14, Postgres |
 | [Spades Tracker](https://spades-tracker.vercel.app) | Self-contained spades scorekeeper in a single static HTML file. [code](https://github.com/stevon-squadtrip/spades-tracker) | Vanilla JS |
 | [Phila Sheriff Sales](https://github.com/stevon-squadtrip/phila-sheriff-sales) | Philadelphia sheriff-sale auction tracker. Scrapes final bids, generates an HTML report | Python |
+| [Agent Guardrails Reference](https://github.com/stevon-squadtrip/agent-guardrails-reference) | Enforced guardrails for a coding agent working against infrastructure: hard blocks, approval gates with checklists, "run X before Y" preconditions, and a tamper-evident audit log. Upfront about what these guards can't catch | Node, Claude Code hooks |
+
 
 Every one of these is deployed and in real use. None of them were assigned to me.
 
