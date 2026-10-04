@@ -14,6 +14,8 @@ Co-founder and former CTO of [SquadTrip](https://squadtrip.com), a group travel 
 
 **The guardrails around it.** Evidence required before an agent asserts anything. Human approval on every customer-facing send and every production write. Pre-tool hooks that block secret-file creation and gate edits to payment code. An audit log of every run. That verification layer caught the agent contradicting its own earlier conclusion before it reached a customer.
 
+**See it in code.** That codebase is closed, so I rebuilt the core pattern in the open: [agent-guardrails-reference](https://github.com/stevon-squadtrip/agent-guardrails-reference) blocks, gates and audits a coding agent working against a fake deployment service, with tests on three operating systems and an upfront section on what these guards can't catch.
+
 **Knowledge grounding.** Verified 176 help articles against source code, production data, and the payment processor directly. Staged 340+ corrections behind human sign-off. Found 10 answers already reaching customers that were materially wrong. Froze a 68.1% resolution baseline across 552 conversations first, so impact would be a number rather than a feeling.
 
 **Test and release infrastructure.** Built the automated test layer from nothing: 1,087 Playwright and unit tests where no end-to-end coverage existed. Cut regression runtime from 110 minutes to 24 through partitioned parallelization. CI/CD with environment swapping, deploy-verification health endpoints, a system health API, Honeybadger and PostHog instrumentation, and a Slack ops center running health checks and daily digests.
